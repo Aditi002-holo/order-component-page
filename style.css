@@ -168,7 +168,7 @@ section .btn .btn-change {
 }
 /* Media Queries */
 
-@media(max-width: 375px) {
+@media(max-width: 768px) {
     body {
         background: hsl(225, 100%, 94%);
         background-image: url(./images/pattern-background-mobile.svg);
